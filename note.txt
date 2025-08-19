@@ -1,0 +1,132 @@
+#reviews-section {
+    background-color: #edf6fd;
+    /* height: 370px; */
+    border-radius: 12px;
+    padding: 0px 64px;
+    margin: 0px 58px;
+}
+
+#reviews-heading {
+    /* font-size: 30px; */
+    font-family: "DM Serif Display", serif;
+    /* font-weight: 400;
+    color: #384A62;
+    margin: 85px 0px 20px 85px; */
+    /* padding-top: 65px; */
+    font-size: 30px;
+    font-weight: 400;
+    color: #384a62;
+    margin: 0px 0px 24px;
+}
+
+#reviwes-container {
+    display: grid;
+    justify-content: space-around;
+    margin: 0px 85px;
+}
+
+#box-amina {
+    background-color: RGB(255, 255, 255);
+    height: 180px;
+    width: 400px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 10px;
+}
+
+#card-amina {
+    margin: 20px 20px 0px 20px;
+    border: 0.5px solid #d4d4d4;
+    width: 30px; /* Adjust as needed */
+    height: 30px; /* Adjust as needed */
+    border-radius: 50%;
+    background-color: #ffffff; /* Example background color */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#name-amina {
+    color: #384A62;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sf pro, sans-serif;
+    margin: 20px 0px;
+}
+
+#handles {
+    color: #1DA1F2;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+#text-amina {
+    color: #384A62;
+    font-size: 15px;
+    font-family: sf pro, sans-serif;
+    padding-right: 20px;
+}
+
+#mentions {
+    color: #1DA1F2;
+    text-decoration: none;
+}
+
+#box-tosin {
+    background-color: RGB(255, 255, 255);
+    height: 180px;
+    width: 400px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 1px;
+}
+
+#name-tosin {
+    color: #384A62;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sf pro, sans-serif;
+    margin: 20px 0px;
+}
+
+
+#text-tosin {
+    color: #384A62;
+    font-size: 15px;
+    font-family: sf pro, sans-serif;
+    padding-right: 20px;
+}
+
+#box-olga {
+    background-color: RGB(255, 255, 255);
+    height: 180px;
+    width: 400px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 8px;
+}
+
+#name-olga {
+    color: #384A62;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sf pro, sans-serif;
+    margin: 20px 0px;
+}
+
+#text-olga {
+    color: #384A62;
+    font-size: 15px;
+    font-family: sf pro, sans-serif;
+    padding-right: 20px;
+}
