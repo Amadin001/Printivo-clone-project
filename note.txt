@@ -130,3 +130,56 @@
     font-family: sf pro, sans-serif;
     padding-right: 20px;
 }
+
+/* #box-amina, #box-tosin, #box-olga{
+    height: auto !important;
+    position: static !important;
+    right: auto !important;
+    margin: 0 !important;
+
+/* Card look */
+    /* background: #f5f7f9;
+    border: 1px solid #e6eaef;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.06);
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+} */
+
+
+/* #card-amina, #card-tosin, #card-olga{ 
+    display: flex; 
+    flex-direction: column; 
+    gap: 8px;
+    background: transparent !important; 
+    border: 0 !important;
+    padding: 10px 30px;
+    margin: 0 50px 0 50px;
+} */
+
+/* Avatar/icon + text styling */
+/* .icon-amina, .icon-tosin, .icon-olga,
+#icon-amina, #icon-tosin, #icon-olga{
+    width: 22px; height: 22px; opacity: .9; margin-bottom: 6px; display: inline-block;
+}
+
+#name-amina, #name-tosin, #name-olga{ color:#16202a; font-weight:700; font-size:14px; }
+#handles, #handle-amina, #handle-tosin, #handle-olga{ color:#1da1f2; text-decoration:none; margin-left:6px; }
+#handles:hover, #handle-amina:hover, #handle-tosin:hover, #handle-olga:hover{ text-decoration:underline; }
+
+#text-amina, #text-tosin, #text-olga{
+    color:#334155; font-size:14px; line-height:1.5;
+}
+#mentions{ color:#1da1f2; text-decoration:none }
+#mentions:hover{ text-decoration:underline } */ */
+
+/* ===== Responsive like the real site =====
+@media (max-width: 992px){
+    #reviews-container{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 600px){
+    #reviews-container{ grid-template-columns: 1fr; }
+} */
+
+/* Trust, Quality, and Value section */
